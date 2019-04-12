@@ -3,8 +3,8 @@ import Keys._
 
 object Dependencies {
 
-  val AkkaVersion = "2.5.21"
-  val AkkaHttpVersion = "10.1.7"
+  val AkkaVersion = "2.5.22"
+  val AkkaHttpVersion = "10.1.8"
 
   val JUnitVersion = "4.12"
   val SprayJsonVersion = "1.3.5"
